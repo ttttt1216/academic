@@ -55,24 +55,34 @@ education:
   - area: PhD Civil Engineering
     institution: Tsinghua University
     date_start: 2020-09-01
-    date_end: 2025-06-30
+    date_end: 2025-6-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: BSc Civil Engineering
-    institution: Chongqing University
-    date_start: 2016-09-01
-    date_end: 2020-06-31
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 3.9/4.0
+      GPA: 3.8/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -118,10 +128,6 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
       - name: Hiking
         description: ''
         percent: 60
@@ -130,15 +136,18 @@ skills:
         description: ''
         percent: 100
         icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 
 languages:
   - name: English
-    percent: 75
-  - name: Chinese
     percent: 100
-  - name: German
+  - name: Chinese
+    percent: 75
+  - name: Portuguese
     percent: 25
-
 
 # Awards.
 #   Add/remove as many awards below as you like.
