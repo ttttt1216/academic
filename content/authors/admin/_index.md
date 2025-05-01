@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Zhenshiyi Tian
+title: Zhenshiyi Tian 田真诗怡
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zhenshiyi
+last_name: Tian
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💎
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Civil Engineering, Tsinghua University
     url: https://openai.com/
 
 # Social network links
