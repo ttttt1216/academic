@@ -25,7 +25,7 @@ role: PhD Candidate
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: School of Civil Engineering, Tsinghua University
-    # url: https://www.civil.tsinghua.edu.cn/ce/
+    # url:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,15 +47,15 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Coastal Hazards Modeling
-  - Maritime Transportation Resilience
-  - Coastal Protection
+  - Wind Hazard
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
-  - area: PhD Civil Engineering
-    institution: Tsinghua University
-    date_start: 2020-09-01
-    date_end: 2025-6-30
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
