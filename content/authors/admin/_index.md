@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhenshiyi Tian 田真诗怡
+title: 田真诗怡
 
 # Name pronunciation (optional)
 # name_pronunciation:
