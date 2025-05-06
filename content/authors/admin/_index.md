@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 田真诗怡
+title: Zhenshiyi Tian
 
 # Name pronunciation (optional)
-# name_pronunciation:
+name_pronunciation: 真诗怡 田
 
 # Full name (for SEO)
 first_name: Zhenshiyi
