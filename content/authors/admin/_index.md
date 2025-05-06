@@ -57,7 +57,7 @@ education:
     date_start: 2020-09-01
     date_end: 2025-6-22
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Yi Zhang](https://civil.seu.edu.cn/zy2/list.htm) and [Prof Chen Gu]. Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Yi Zhang](https://civil.seu.edu.cn/zy2/list.htm) and [Prof Chen Gu](https://civil.seu.edu.cn/zy2/list.htm). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis Abstract'
       url: 'https://example.com'
