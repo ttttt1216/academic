@@ -55,7 +55,7 @@ education:
   - area: PhD Civil Engineering
     institution: Tsinghua University
     date_start: 2020-09-01
-    date_end: 2025-6-22
+    date_end: 2025-06-22
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Yi Zhang](https://civil.seu.edu.cn/zy2/list.htm) and [Prof Chen Gu](https://civil.seu.edu.cn/zy2/list.htm). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -75,7 +75,7 @@ education:
   - area: BSc Civil Engineering
     institution: Chongqing University
     date_start: 2016-09-01
-    date_end: 2020-6-30
+    date_end: 2020-06-30
     summary: |
       GPA: 3.9/4.0
       
