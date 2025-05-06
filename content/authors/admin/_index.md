@@ -52,14 +52,14 @@ interests:
   - Protection and Resilence for ...
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Civil Engineering
+    institution: Tsinghua University
+    date_start: 2020-09-01
+    date_end: 2025-6-22
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Yi Zhang](https://civil.seu.edu.cn/zy2/list.htm) and [Prof Chen Gu]. Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
-      text: 'Read Thesis'
+      text: 'Read Thesis Abstract'
       url: 'https://example.com'
   # - area: MEng Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
@@ -72,12 +72,12 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Civil Engineering
+    institution: Chongqing University
+    date_start: 2016-09-01
+    date_end: 2020-6-30
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.9/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -118,7 +118,7 @@ skills:
         icon: code-bracket
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-bar
       - name: SQL
         description: ''
@@ -128,25 +128,25 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Tennis
         description: ''
-        percent: 60
+        percent: 80
         icon: person-simple-walk
       - name: Cats
         description: ''
-        percent: 100
+        percent: 90
         icon: cat
       - name: Photography
         description: ''
-        percent: 80
+        percent: 100
         icon: camera
 
 languages:
   - name: English
-    percent: 100
+    percent: 80
   - name: Chinese
-    percent: 75
-  - name: Portuguese
+    percent: 100
+  - name: German
     percent: 25
 
 # Awards.
